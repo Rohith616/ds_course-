@@ -8,15 +8,6 @@
 
 ***
 
-# FIRST STEPS
-
-- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
-- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
-
-***
-
-# Virtues of a TECH I.S. Student
-
 ### Be Professional
 The job of an engineer requires the ability to solve the problem by himself. When a student encounters a problem, we don't often give him/her the answer. We will teach you how to solve the problem. By doing so, we aim to develop professionals who can solve problems themselves in the future. **However, please do not take too much time and do not hesitate to ask.** Use us to go ahead and learn quickly.
 
